@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Неговора_Александра_ОС_практика_2</RootNamespace>
+     <LangVersion>preview</LangVersion>
+  </PropertyGroup>
+
+</Project>
